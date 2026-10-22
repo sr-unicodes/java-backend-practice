@@ -1,2 +1,2 @@
-# java-concurrent-transaction-processor
-Java backend practice project demonstrating concurrency, ExecutorService, ConcurrentHashMap, fraud detection, and Java Streams.
+# jvm-internals-practice
+Java backend practice repository demonstrating core JVM concepts, memory management, multithreading, and concurrency.
