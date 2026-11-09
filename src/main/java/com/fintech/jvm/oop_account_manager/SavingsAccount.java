@@ -1,4 +1,4 @@
-package oop_account_manager;
+package com.fintech.jvm.oop_account_manager;
 
 public class SavingsAccount extends BankAccount{
     public SavingsAccount(String accountId, double balance) {

@@ -1,4 +1,4 @@
-package oop_account_manager;
+package com.fintech.jvm.oop_account_manager;
 
 public abstract class BankAccount {
     private String accountId ;

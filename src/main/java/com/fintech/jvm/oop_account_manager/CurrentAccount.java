@@ -1,4 +1,4 @@
-package oop_account_manager;
+package com.fintech.jvm.oop_account_manager;
 
 public class CurrentAccount extends BankAccount{
     private double overdraftLimit;
